@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.11.0](https://github.com/onecli/onecli/compare/v1.10.0...v1.11.0) (2026-04-01)
+
+
+### Features
+
+* add 11 Google Workspace apps and inline BYOC config dialog ([#140](https://github.com/onecli/onecli/issues/140)) ([82c717a](https://github.com/onecli/onecli/commit/82c717ad7f9d13511e43c2d9cde3f85382929eb8))
+
 ## [1.10.0](https://github.com/onecli/onecli/compare/v1.9.0...v1.10.0) (2026-03-31)
 
 
